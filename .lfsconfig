@@ -1,0 +1,2 @@
+[lfs]
+  url = "s3://s3agentbucket"
